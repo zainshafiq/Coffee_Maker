@@ -10,7 +10,7 @@ following features:
   • Be able to add and delete recipes. You should indicate to the user any problems or success.
   
   • Your coffee maker must hold 4 recipes and have 20 units of coffee, milk, and sugar in its
-    inventory. The inventory should be filled in the constructor.
+      inventory. The inventory should be filled in the constructor.
   
   • Make some coffee. Remember that your inventory should go down depending on the recipe
     being made.
